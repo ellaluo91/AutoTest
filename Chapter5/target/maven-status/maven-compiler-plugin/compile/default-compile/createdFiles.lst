@@ -1,0 +1,11 @@
+com\course\testng\groups\GroupsOnCalss2.class
+com\course\testng\suite\SuiteConfig.class
+com\course\testng\suite\PayTest.class
+com\course\testng\BaseTest.class
+com\course\testng\mutilThread\MutilThreadOnXML.class
+com\course\testng\groups\GroupsOnCalss1.class
+com\course\testng\IgnoreTest.class
+com\course\testng\suite\Login.class
+com\course\testng\groups\GroupsOnMethod.class
+com\course\testng\mutilThread\MutilThreadOnAnnotion.class
+com\course\testng\groups\GroupsOnCalss3.class
